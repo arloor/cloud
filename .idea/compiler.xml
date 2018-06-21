@@ -13,6 +13,7 @@
       <module name="cloudconfig" target="1.5" />
       <module name="demo" target="1.8" />
       <module name="eurekaserver" target="1.8" />
+      <module name="faxian" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
