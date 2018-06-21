@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaserver" />
+        <module name="servicehi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -14,6 +15,7 @@
       <module name="demo" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="faxian" target="1.8" />
+      <module name="servicehi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

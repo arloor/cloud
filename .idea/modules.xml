@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicehi/servicehi.iml" filepath="$PROJECT_DIR$/servicehi/servicehi.iml" />
     </modules>
   </component>
 </project>
