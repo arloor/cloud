@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/0-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/1-service-hi/pom.xml" />
         <option value="$PROJECT_DIR$/2-service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/3-service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/4-service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/5-config-server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

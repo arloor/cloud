@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/0-eureka-server/0-eureka-server.iml" filepath="$PROJECT_DIR$/0-eureka-server/0-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/1-service-hi/1-service-hi.iml" filepath="$PROJECT_DIR$/1-service-hi/1-service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/2-service-ribbon/2-service-ribbon.iml" filepath="$PROJECT_DIR$/2-service-ribbon/2-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-service-feign/3-service-feign.iml" filepath="$PROJECT_DIR$/3-service-feign/3-service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-service-zuul/4-service-zuul.iml" filepath="$PROJECT_DIR$/4-service-zuul/4-service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-config-server/5-config-server.iml" filepath="$PROJECT_DIR$/5-config-server/5-config-server.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,16 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+server:
+  port: 8765
+
+#设置断路器开启（Dx版本需要
+feign:
+  hystrix:
+    enabled:
+      true
+
+spring:
+  application:
+    name: service-feign
