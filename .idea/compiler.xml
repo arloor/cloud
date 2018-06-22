@@ -6,16 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eurekaserver" />
-        <module name="servicehi" />
+        <module name="0-eureka-server" />
+        <module name="0eurekaserver" />
+        <module name="2-service-ribbon" />
+        <module name="2service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="0-eureka-server" target="1.8" />
+      <module name="0eurekaserver" target="1.8" />
+      <module name="1-service-hi" target="1.8" />
+      <module name="1service-hi" target="1.8" />
+      <module name="1servicehi" target="1.8" />
+      <module name="2-service-ribbon" target="1.8" />
+      <module name="2service-ribbon" target="1.8" />
       <module name="cloudconfig" target="1.5" />
       <module name="demo" target="1.8" />
-      <module name="eurekaserver" target="1.8" />
       <module name="faxian" target="1.8" />
-      <module name="servicehi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
