@@ -15,6 +15,7 @@
         <module name="4-service-zuul" />
         <module name="5-config-server" />
         <module name="6-config-client" />
+        <module name="7-eureka-server-peer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="4-service-zuul" target="1.8" />
       <module name="5-config-server" target="1.8" />
       <module name="6-config-client" target="1.8" />
+      <module name="7-eureka-server-peer" target="1.5" />
       <module name="cloudconfig" target="1.5" />
       <module name="demo" target="1.8" />
       <module name="faxian" target="1.8" />
